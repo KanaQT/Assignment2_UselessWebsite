@@ -1,0 +1,63 @@
+html {
+    background-color: rgb(36, 0, 56);
+    font-family: sans-serif;
+    color: #ffffff;
+}
+
+body {
+    margin: 0;
+}
+
+.wrapper {
+    width: 500px;
+    margin: 80px auto;
+    background-color: #ff64e8;
+    border-radius: 25px;
+    border: 5px solid #ff64e8;
+}
+
+.header h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 80px;
+    padding-top: 0px;
+    color: rgb(255, 255, 255);
+}
+
+.achievements {
+    display: block;
+    margin: 20px 15px 0 10px;
+    padding-left: 50px;
+}
+
+.achievements h2 {
+color: #ffffff;
+}
+
+.achievements ol li {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.button {
+    text-align: center;
+}
+
+button {
+    background-color: #7b38d8;
+    width: 100px;
+    height: 50px;
+    color: #ffffff;
+    text-align: center;
+  }
+
+.number p {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+}   
+
+.music {
+    overflow: hidden;
+    width: .1px;
+}
